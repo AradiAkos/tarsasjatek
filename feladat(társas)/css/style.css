@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    text-size-adjust: 30px;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: uppercase;
+    text-size-adjust: 100px;
+}
+
+
